@@ -1,0 +1,50 @@
+c:\users\noah\documents\visual studio 2010\Projects\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\background.xnb
+c:\users\noah\documents\visual studio 2010\Projects\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\LancamentoProjetil.exe
+c:\users\noah\documents\visual studio 2010\Projects\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\LancamentoProjetil.pdb
+c:\users\noah\documents\visual studio 2010\Projects\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\noah\documents\visual studio 2010\Projects\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\noah\documents\visual studio 2010\Projects\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Debug\LancamentoProjetil.exe
+c:\users\noah\documents\visual studio 2010\Projects\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Debug\LancamentoProjetil.pdb
+c:\users\noah\documents\visual studio 2010\Projects\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\pig.xnb
+c:\users\noah\documents\visual studio 2010\Projects\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\font.xnb
+C:\Users\Noah\Documents\Visual Studio 2010\Projects\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\background2.xnb
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\pig.xnb
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\background.xnb
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\font.xnb
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\LancamentoProjetil.exe
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\LancamentoProjetil.pdb
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Debug\LancamentoProjetil.exe
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Debug\LancamentoProjetil.pdb
+G:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Debug\LancamentoProjetil.exe
+G:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Debug\LancamentoProjetil.pdb
+G:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\pig.xnb
+G:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\background.xnb
+G:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\background2.xnb
+G:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\font.xnb
+G:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\LancamentoProjetil.exe
+G:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\LancamentoProjetil.pdb
+G:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\vector.xnb
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\positions.xnb
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\initMessage.xnb
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\again.xnb
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\score.xnb
+C:\Users\Noah\Documents\Noah\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\pig.xnb
+C:\Users\Noah\Documents\Noah\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\background.xnb
+C:\Users\Noah\Documents\Noah\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\vector.xnb
+C:\Users\Noah\Documents\Noah\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\initMessage.xnb
+C:\Users\Noah\Documents\Noah\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\again.xnb
+C:\Users\Noah\Documents\Noah\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\score.xnb
+C:\Users\Noah\Documents\Noah\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\font.xnb
+C:\Users\Noah\Documents\Noah\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\positions.xnb
+C:\Users\Noah\Documents\Noah\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\LancamentoProjetil.exe
+C:\Users\Noah\Documents\Noah\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\LancamentoProjetil.pdb
+C:\Users\Noah\Documents\Noah\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Noah\Documents\Noah\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Noah\Documents\Noah\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Debug\LancamentoProjetil.exe
+C:\Users\Noah\Documents\Noah\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Debug\LancamentoProjetil.pdb
+C:\Users\Noah\Documents\Noah\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\cursor.xnb
+C:\Users\Noah\Documents\Noah\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Debug\Content\cursorSelect.xnb

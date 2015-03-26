@@ -1,0 +1,10 @@
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Release\Content\pig.xnb
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Release\Content\background.xnb
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Release\Content\background2.xnb
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Release\Content\font.xnb
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Release\LancamentoProjetil.exe
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\bin\x86\Release\LancamentoProjetil.pdb
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Release\ResolveAssemblyReference.cache
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Release\LancamentoProjetil.exe
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetil\obj\x86\Release\LancamentoProjetil.pdb

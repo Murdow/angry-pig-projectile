@@ -1,0 +1,4 @@
+c:\users\noah\documents\visual studio 2010\Projects\LancamentoProjetil\LancamentoProjetil\LancamentoProjetilContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetilContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetilContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Noah\Documents\Noah\XNA\LancamentoProjetil\LancamentoProjetil\LancamentoProjetilContent\obj\x86\Debug\ResolveAssemblyReference.cache
